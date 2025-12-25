@@ -14,10 +14,6 @@ Maintain a structured learning record on GitHub
 
 # 📂 Projects Included
 
-Calculator – Console-based arithmetic calculator
-
-Guess the Number – Random number guessing game
-
 Tic-Tac-Toe – Two-player console game
 
 Student Management System – Basic CRUD operations using OOP
