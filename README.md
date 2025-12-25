@@ -40,7 +40,7 @@ User Input handling
 
 # ▶️ How to Run
 Clone the repository:- 
-git clone https://github.com/yourusername/java-beginner-projects.git
+git clone https://github.com/Gattik123/java-beginner-projects.git
 
 Navigate to a project folder:- 
 cd java-beginner-projects/ProjectName
