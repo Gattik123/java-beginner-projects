@@ -14,10 +14,6 @@ Maintain a structured learning record on GitHub
 
 # 📂 Projects Included
 
-Calculator – Console-based arithmetic calculator
-
-Guess the Number – Random number guessing game
-
 Tic-Tac-Toe – Two-player console game
 
 Student Management System – Basic CRUD operations using OOP
@@ -44,7 +40,7 @@ User Input handling
 
 # ▶️ How to Run
 Clone the repository:- 
-git clone https://github.com/yourusername/java-beginner-projects.git
+git clone https://github.com/Gattik123/java-beginner-projects.git
 
 Navigate to a project folder:- 
 cd java-beginner-projects/ProjectName
