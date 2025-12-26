@@ -16,6 +16,8 @@ Maintain a structured learning record on GitHub
 
 Tic-Tac-Toe – Two-player console game
 
+Slot Machine Game - Basic randomization and balance management
+
 Student Management System – Basic CRUD operations using OOP
 
 Bank Management System – Simple account and transaction handling
