@@ -48,4 +48,7 @@ public class Board{
         if(count==9)return true;
         else return false;
     }
+    public int getCount(){
+        return count;
+    }
 }

@@ -26,7 +26,7 @@ public class Game{
             }
             board.print();
             if(board.getWinner()!=' '){
-                System.out.println("Congrats "+currentPlayer.getName()+" is the Winner");
+                System.out.println("Congrats "+currentPlayer.getName()+" is the Winner in "+board.getCount()+" steps!");
                 flag =1;
             }
             switchPlayer();
@@ -35,8 +35,10 @@ public class Game{
                 flag=1;
             }
             if(flag==1){
-                System.out.print("Restart?(1 = no, any other number = yes: ");
-                flag = scan.nextInt();
+                System.out.print("Restart?(Y/N): ");
+                scan.nextLine();
+                char s = scan.nextLine().charAt(0);
+                flag = (s=='n'||s=='N')?1:0;
                 if(flag!=1){
                     reset();
                 }
