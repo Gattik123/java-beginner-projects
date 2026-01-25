@@ -16,7 +16,9 @@ Maintain a structured learning record on GitHub
 
 Tic-Tac-Toe – Two-player console game
 
-Slot Machine Game - Basic randomization and balance management
+Slot Machine Game - Basic randomization and balance 
+
+Student Grade Calculator - Calculate grade based on marks
 
 (More projects will be added as learning progresses.)
 
