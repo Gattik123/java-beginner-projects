@@ -13,6 +13,7 @@ public class Account{
     public static void createAccount(){
         long accountNumber = AccountNumberGen.accountNumberGen();
         Main.scan.nextLine();
+        System.out.print("Account Holder Name:");
         String name = Main.scan.nextLine();
         Account acc = new Account(accountNumber,name);
         Main.accounts.put(accountNumber,acc);
