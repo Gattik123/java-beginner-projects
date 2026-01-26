@@ -20,6 +20,8 @@ Slot Machine Game - Basic randomization and balance
 
 Student Grade Calculator - Calculate grade based on marks
 
+Bank Account System - Basic features like Create, Withdraw, Deposit, View Balance
+
 (More projects will be added as learning progresses.)
 
 # 🧠 Topics Covered
