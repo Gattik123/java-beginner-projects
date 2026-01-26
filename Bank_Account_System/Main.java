@@ -25,6 +25,9 @@ public class Main{
                 case 5:
                     Account.showDetails();
                     break;
+                case 6:
+                    System.out.println("Thanks for visiting us!");
+                    break;
                 default:
                     System.out.println("Invalid Choice");
             }
